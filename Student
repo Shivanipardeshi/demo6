@@ -1,0 +1,5 @@
+public class student
+{
+
+System.out.println("New one for student");
+}
